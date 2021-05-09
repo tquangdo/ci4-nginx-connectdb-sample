@@ -9,7 +9,7 @@
     cd /var/www
     chmod -R 777 writable/
 ```
-2. 'Dockerfile' NOT have cmd for install composer
+2. `docker/php/Dockerfile` NOT have cmd for install composer
 3. Reset mysql data
     ```bash
     bash reset-db.sh
@@ -102,4 +102,3 @@ database.default.DBDriver = MySQLi
 5. access browser `http://localhost/`
 - => echo output DB connection's info on browser
 ![demo](screenshot/demo.png)
-
