@@ -1,5 +1,6 @@
 # ci4-nginx-connectdb-sample 🧨
 
+![badge4](https://img.shields.io/badge/docker-3.3.1-blue)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/ci4-nginx-connectdb-sample/issues/new)
 
 ## Note
